@@ -1,6 +1,6 @@
 id=715
 Rose Madder Root
-containable=1
+containable=0
 containSize=1,vertSlotRot=0.000000
 permanent=0,minPickupAge=3
 heldInHand=1
